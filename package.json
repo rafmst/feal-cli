@@ -1,5 +1,5 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.3",
   "name": "feal",
   "description": "Feal is a tool to generate backend projects using Typescrip  ",
   "scripts": {
