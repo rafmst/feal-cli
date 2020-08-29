@@ -8,10 +8,10 @@
   "bin": {
     "feal": "dist/index.js"
   },
-  "homepage": "https://github.com/rafmst/feal#readme",
+  "homepage": "https://github.com/rafmst/feal-cli#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rafmst/feal.git"
+    "url": "https://github.com/rafmst/feal-cli.git"
   },
   "prettier": {
     "singleQuote": true,
