@@ -1,0 +1,40 @@
+{
+  "version": "0.1.1",
+  "name": "feal",
+  "description": "Feal is a tool to generate backend projects using Typescrip  ",
+  "scripts": {
+    "dev": "ts-node src/index.ts"
+  },
+  "bin": {
+    "feal": "dist/index.js"
+  },
+  "homepage": "https://github.com/rafmst/feal#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rafmst/feal.git"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "printWidth": 80,
+    "tabWidth": 2,
+    "semi": false,
+    "spaceAfterFunction": true,
+    "trailingComma": "none"
+  },
+  "keywords": [],
+  "author": "Rafael Morais <rafaelcanical@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/node": "^14.0.21",
+    "@types/yargs": "^15.0.5",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.6"
+  },
+  "dependencies": {
+    "@types/figlet": "^1.2.0",
+    "chalk": "^4.1.0",
+    "figlet": "^1.5.0",
+    "yargs": "^15.4.0"
+  }
+}
