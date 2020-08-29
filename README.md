@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Tool to start a new Feal project. Built with Typescript.
+  CLI to bootstrap a new Feal project. Built with Typescript.
 </p>
 
 <p align="center">
