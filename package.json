@@ -1,7 +1,7 @@
 {
   "version": "0.1.4",
   "name": "feal",
-  "description": "Feal is a tool to generate backend projects using Typescrip  ",
+  "description": "Feal is a tool to generate backend projects using Typescript",
   "scripts": {
     "dev": "ts-node src/index.ts"
   },
